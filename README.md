@@ -5,6 +5,7 @@ I have made a notebook that can be easily ran in googlecolab using the free T4 r
 
 If you happen upon this and are interested in computer vision then perhaps there are some things you will learn by going through, and perhaps running the code for you self. 
 
+The notebook is rather dense and rather huge with content, although I do layout comments and markdown approprtiatly so it should be fairly intuative to follow along with the logic.
 
 ## running the notebook in googlecolab
 
