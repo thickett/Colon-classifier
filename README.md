@@ -1,5 +1,7 @@
 # Colon-classifier
 
+**IMPORTANT** This notebook is designed to be ran in google colab, if you do so go through cell by cell rather than running it all - some of the models are quite large, and so are the datasets.
+
 ### Project Overview
 I have made a notebook that can be easily ran in googlecolab using the free T4 run time for creating classifcation model for a variety of colon-related diesase using medical image data. I create a few models and go through various topics such as transsferred-learning, evelotionary algorithms, CNN architecture, Efficent callback functions, data augmentation in Keras and much more. 
 
